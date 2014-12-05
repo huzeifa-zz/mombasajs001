@@ -1,0 +1,3 @@
+http://jstherightway.org
+http://nodeschool.io
+http://eloquentjavascript.net
